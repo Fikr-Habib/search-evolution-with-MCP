@@ -1,78 +1,43 @@
-<!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Search Evolution with MCP</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --bg: #0d1117;
-      --text: #c9d1d9;
-      --accent: #58a6ff;
-      --card: #161b22;
-    }
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Roboto Mono', monospace;
-    }
-    body {
-      background-color: var(--bg);
-      color: var(--text);
-      padding: 2rem;
-    }
-    h1 {
-      font-size: 2rem;
-      margin-bottom: 1rem;
-      color: var(--accent);
-    }
-    .banner {
-      width: 100%;
-      max-height: 300px;
-      object-fit: cover;
-      border-radius: 10px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
-      margin-bottom: 2rem;
-    }
-    .post-list {
-      display: grid;
-      gap: 1.5rem;
-    }
-    .post-card {
-      background-color: var(--card);
-      padding: 1rem;
-      border-radius: 8px;
-      transition: transform 0.2s ease;
-    }
-    .post-card:hover {
-      transform: translateY(-5px);
-    }
-    a {
-      color: var(--accent);
-      text-decoration: none;
-    }
-    .footer {
-      margin-top: 3rem;
-      font-size: 0.8rem;
-      text-align: center;
-      color: #888;
-    }
-  </style>
-</head>
-<body>
-  <h1>🔍 Search Evolution with MCP</h1>
-  <img src="images/mcp-intro-banner.jpeg" alt="MCP Banner" class="banner" />  <section class="post-list">
-    <div class="post-card">
-      <h2><a href="blog-posts/part-1-intro-to-MCP.md">📘 Part 1: Introduction to MCP</a></h2>
-      <p>What is MCP? How it's different from traditional search engines, and why it's the future.</p>
-    </div>
-    <div class="post-card">
-      <h2><a href="#">📘 Part 2: MCP vs Traditional Search (Coming Soon)</a></h2>
-      <p>A deep dive into how MCP compares to traditional search models like Google.</p>
-    </div>
-  </section>  <div class="footer">
-    © 2025 Habib — Built with GitHub Pages | Dark Mode Friendly
-  </div>
-</body>
-</html>
+# 🔍 Search Evolution with MCP  
+A research & blog series exploring how Multimodal Contextual Processing (MCP) is shaping the future of information access.
+
+
+## 🧠 What is MCP?
+MCP (Multimodal Contextual Processing) is the next-generation approach to information search — embedded directly into tools, apps, and workflows. Instead of asking a search engine, your tool already knows what you need based on context.
+
+
+## 📚 Topics Covered
+ 📌 What is MCP?
+ ❓ Why traditional search is not enough
+ 🤖 Context-aware AI assistants
+ 🥊 Google vs. MCP: A new battle?
+ 💻 MCP in IDEs, Browsers & Productivity tools
+ 📖 Research references and case studies
+
+
+## 📂 Repository Structure
+• blog-posts/: All blog articles written in markdown
+• references/: Literature review and external reading list
+• images/: Diagrams and visual aids
+• LICENSE: Open source license (MIT or CC)
+
+
+
+## ✍ Author
+md.Habibur Rahman  
+Aspiring Data Scientist | AI & Society Enthusiast | Researching Future Tech  
+🌐 [linkedin.com/in/ha-bib--24y](https://www.linkedin.com/in/ha-bib--24y)
+🌐. https://www.instagram.com/ha_bib_/
+🌐. https://www.facebook.com/224HaBiB/
+🌐. https://x.com/Habib1191210
+🌐. [coff.ee/MD.HABIB](https://buymeacoffee.com/md.habib)
+🌐. https://www.youtube.com/@Habib-i9n8u
+📧 habiburrahman10224@gmail.com
+
+## ⚖ License
+This project is licensed under the MIT License — you’re free to fork, contribute, and share with credit.  
+See [LICENSE](./LICENSE) for details.
+
+
+> ✨ Let's rethink how we search — and build the future of contextual intelligence together.  
+> — [Habib](https://github.com/Fikr-Habib)
