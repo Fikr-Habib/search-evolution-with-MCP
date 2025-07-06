@@ -25,5 +25,5 @@ This repository explores how *MCP (Multimodal Contextual Processing)* is transfo
 ## ✍ Author
 md.Habibur Rahman  
 Aspiring Data Scientist | AI & Society Enthusiast | Researching Future Tech  
-🌐 linkedin.com/in/ha-bib--24y
+🌐 [linkedin.com/in/ha-bib--24y](https://www.linkedin.com/in/ha-bib--24y)
 📧 habiburrahman10224@gmail.com
