@@ -26,4 +26,9 @@ This repository explores how *MCP (Multimodal Contextual Processing)* is transfo
 md.Habibur Rahman  
 Aspiring Data Scientist | AI & Society Enthusiast | Researching Future Tech  
 🌐 [linkedin.com/in/ha-bib--24y](https://www.linkedin.com/in/ha-bib--24y)
+🌐. Instagram https://www.instagram.com/ha_bib_/
+🌐. https://www.facebook.com/224HaBiB/
+🌐. https://x.com/Habib1191210
+🌐. coff.ee/MD.HABIB
+🌐. https://www.youtube.com/@Habib-i9n8u
 📧 habiburrahman10224@gmail.com
