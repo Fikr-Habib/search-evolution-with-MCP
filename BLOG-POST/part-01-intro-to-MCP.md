@@ -1,4 +1,7 @@
-![MCP Banner](../images/mcp-intro-banner.jpeg)
+
+<p align="center">
+  <img src="../images/mcp-intro-banner.jpeg" alt="MCP Banner" width="100%" />
+</p>
 # 🔍 Part 1: Introduction to MCP – Reinventing the Future of Search
 For decades, we’ve asked questions to search engines. But what if tools could anticipate our needs before we even ask?  
 Welcome to the world of *Multimodal Contextual Processing (MCP)* — a paradigm shift that promises to revolutionize how we interact with information.
