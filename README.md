@@ -1,5 +1,3 @@
-![MCP Banner](../images/mcp-intro-banner.jpeg)
-
 # 🔍 Search Evolution with MCP  
 A research & blog series exploring how Multimodal Contextual Processing (MCP) is shaping the future of information access.
 
