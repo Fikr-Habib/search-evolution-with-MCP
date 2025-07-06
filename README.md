@@ -1,17 +1,20 @@
-# search-evolution-with-MCP
-A research &amp; blog series exploring how MCP (Multimodal Contextual Processing) is shaping the future of search and information access.
+# 🔍 Search Evolution with MCP  
+A research & blog series exploring how Multimodal Contextual Processing (MCP) is shaping the future of information access.
+
+🌐 Live Blog: [fikr-habib.github.io/search-evolution-with-MCP](https://fikr-habib.github.io/search-evolution-with-MCP/)
 
 
-# Search Evolution with MCP 🔍🤖
-This repository explores how *MCP (Multimodal Contextual Processing)* is transforming the way we search, access, and use information — moving beyond traditional search engines like Google.
+## 🧠 What is MCP?
+MCP (Multimodal Contextual Processing) is the next-generation approach to information search — embedded directly into tools, apps, and workflows. Instead of asking a search engine, your tool already knows what you need based on context.
+
 
 ## 📚 Topics Covered
-• What is MCP?
-• Why traditional search is not enough anymore
-• Context-aware AI assistants
-• Google vs. MCP: A new battle?
-• MCP in IDEs, Browsers, and Productivity tools
-• Research references and case studies
+ 📌 What is MCP?
+ ❓ Why traditional search is not enough
+ 🤖 Context-aware AI assistants
+ 🥊 Google vs. MCP: A new battle?
+ 💻 MCP in IDEs, Browsers & Productivity tools
+ 📖 Research references and case studies
 
 
 ## 📂 Repository Structure
@@ -32,3 +35,11 @@ Aspiring Data Scientist | AI & Society Enthusiast | Researching Future Tech
 🌐. [coff.ee/MD.HABIB](https://buymeacoffee.com/md.habib)
 🌐. https://www.youtube.com/@Habib-i9n8u
 📧 habiburrahman10224@gmail.com
+
+## ⚖ License
+This project is licensed under the MIT License — you’re free to fork, contribute, and share with credit.  
+See [LICENSE](./LICENSE) for details.
+
+
+> ✨ Let's rethink how we search — and build the future of contextual intelligence together.  
+> — [Habib](https://github.com/Fikr-Habib)
